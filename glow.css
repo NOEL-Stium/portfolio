@@ -1,0 +1,61 @@
+.kiiro {
+  color: #eede00;
+  text-shadow: 0 0 4px #ffffaa,0 0 4px #ffffaa,0 0 4px #777700;
+}
+
+.awo {
+  color: #1121ff;
+  text-shadow: 0 0 4px #4444ff,0 0 4px #4444ff,0 0 4px #1121aa;
+}
+
+.background {
+	margin-left: 4px;
+	padding-left: 4px;
+}
+
+.backcolor {
+	background: #000;
+}
+
+.buton {
+	padding: 5px 20px;
+	background-color: #410;
+	border-color: #920;
+	color: #e0dcda;
+  text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+  box-shadow: 0 0 4px #b32,0 0 10px #410;
+}
+
+.btn-txt {
+	color: #e0dcda;
+  text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+	text-decoration: none;
+}
+
+.lnk {
+	color: #3744ff;
+  text-shadow: 0 0 4px #000,0 0 4px #007,0 0 4px #007,0 0 4px #007,0 0 4px #007,0 0 4px #000,0 0 4px #000;
+	text-decoration: none;
+}
+
+.top {
+  position: fixed;
+  right: 25%;
+  bottom: 2%;
+}
+
+.clps {
+  position: sticky; top: 0px;
+	width: 100%;
+}
+
+.anchor {
+  display: block;
+  padding-top: 105px;
+  margin-top: -105px;
+}
+.anchor2 {
+  display: block;
+  padding-top: 135px;
+  margin-top: -135px;
+}
